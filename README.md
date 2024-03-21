@@ -1,3 +1,3 @@
-Currently enrolled in an undergraduate degree in Computer Engineering. Learning embedded systems and some computer science courses listed in OSSU. 
+Currently enrolled in an undergraduate degree in Computer Engineering. Learning embedded systems and doing some computer science courses listed in OSSU. 
 
-Building project log website for embedded systems.
+I'm also building a personal project log website for embedded systems.
